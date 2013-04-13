@@ -1,0 +1,13 @@
+{
+  "name": "log",
+  "repo": "esundahl/log",
+  "description": "advanced console.log functionality",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
