@@ -3,7 +3,7 @@
   "repo": "esundahl/log",
   "description": "advanced console.log functionality",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["development", "log", "console", "debug"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
